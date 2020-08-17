@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1592057067 source:/home/zach/codeblocks/nopMD/main.cpp
+	"cpu.hpp"
+
+1592686042 /home/zach/codeblocks/nopMD/cpu.hpp
+	"input.hpp"
+
+1592685476 /home/zach/codeblocks/nopMD/include.hpp
+	<string>
+	<bitset>
+	<iostream>
+	<SDL2/SDL.h>
+
+1590774802 /home/zach/codeblocks/nopMD/input.hpp
+	"graphics.hpp"
+
+1590849042 /home/zach/codeblocks/nopMD/graphics.hpp
+	"include.hpp"
+
